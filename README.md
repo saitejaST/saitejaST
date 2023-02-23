@@ -1,4 +1,4 @@
-# <img src="https://github.com/gittest2121/gittest2121/blob/main/assets/1.png" alt="Hi" width="35"/> Hi, I am Saiteja(ST)
+# Hi, I am Saiteja(ST)
 
 ## <img src=https://fluent-emoji.pages.dev/img/9hffn4.png alt="About" width="35"/> About myself
 I'm Saiteja, an undergraduate student at SRM Institute of Science and Technology pursuing B.tech on AI&ML field
